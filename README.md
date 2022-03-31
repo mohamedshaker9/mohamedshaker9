@@ -1,4 +1,4 @@
-# <samp>Mohamed Shaker</samp><img src="https://github.com/mohamedshaker9/mohamedshaker9/blob/main/assets/developer.gif" width="35px">
+# <samp>Mohamed Shaker</samp><img src="https://github.com/mohamedshaker9/mohamedshaker9/blob/main/assets/developer.gif" width="45px">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/mshaker98//)](https://www.linkedin.com/in/mshaker98/)
 
