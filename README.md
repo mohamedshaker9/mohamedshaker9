@@ -12,7 +12,7 @@
       <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="110" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="120" height="75"/>
 </p>
-<samp>I'm Mohamed Shaker from Egypt and I'm a computer and systems engineer student. currently I'm a self taught Java developer and I'm passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
+<samp>I'm Mohamed Shaker from Egypt and I'm a computer and systems engineer student. currently I'm a self taught Java developer and I'm passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 📖 &nbsp; <samp>Passionate about reading.</samp>
 - 👟 &nbsp; <samp>Going to the GYM.</samp>
