@@ -18,9 +18,9 @@
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21~bgwhite.svg" alt="ansible" width="120" height="75"/>
 <p>
   <samp>
-    👋 Hi, I'm <b>Mohamed Shaker</b> from Egypt — a passionate <b>Application Operations & Support Engineer</b> with a strong background in <b>Java Backend Development</b>.  
-    I love building scalable systems, automating processes, and solving real-world problems through technology.  
-    Over time, I’ve expanded my journey from backend development to application operations, and I’m now exploring the exciting world of <b>DevOps</b>.  
+    👋 Hi, I'm <b>Mohamed Shaker</b> from Egypt — a passionate <b>Backend Developer</b>.  
+    I enjoy building scalable systems, automating workflows, and solving real-world problems through technology.  
+    Over time, I've been exploring a variety of tools and technologies to improve performance, reliability, and developer experience.  
   </samp>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
