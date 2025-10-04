@@ -4,7 +4,7 @@
 
 ## <samp>System.out.print(Hello World!);</samp> <img src="https://github.com/mohamedshaker9/mohamedshaker9/blob/main/assets/earth.gif" width="22px">
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="90" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg" alt="java" width="90" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21~bgwhite.svg" alt="spring" width="100" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21~bgwhite.svg" alt="hibernate" width="120" height="75"/>
        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg" alt="GIT" width="90" height="55"/>
